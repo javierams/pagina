@@ -1,0 +1,12 @@
+# Archivos y directorios específicos de WordPress
+wp-config.php
+wp-content/uploads/
+wp-content/cache/
+wp-content/backups/
+
+# Archivos generados por el sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración del entorno local
+.env
